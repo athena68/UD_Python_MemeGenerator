@@ -30,16 +30,16 @@ This project is a **Meme Generator** application that allows users to create mem
 
 ```bash
 pip install -r requirements.txt
-Run the application:
 ```
 
-4. Command-Line Interface:
+4. Run the application:
+   Command-Line Interface:
 
 ```bash
 python main.py
 ```
 
-5. Flask Web App:
+Flask Web App:
 
 ```bash
 python app.py
